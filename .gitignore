@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+ae_data/
+lib/__pycache__/
+venv/
